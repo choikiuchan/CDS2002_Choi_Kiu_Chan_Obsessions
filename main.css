@@ -1,0 +1,141 @@
+/*page 1*/
+#outer{
+    font-size: 700px;
+    position: absolute;
+}
+#inner1{
+    font-size: 600px;
+    position: absolute;
+}
+#inner2{
+    font-size: 500px;
+    position: absolute;
+}
+#inner3{
+    font-size: 400px;
+    position: absolute;
+}
+#inner4{
+    font-size: 300px;
+    position: absolute;
+}
+#inner5{
+    font-size: 220px;
+    position: absolute;
+}
+#inner6{
+    font-size: 150px;
+    position: absolute;
+}
+
+/*page 2*/
+
+#circle{
+    position:absolute;
+}
+#innerCircle{
+    position:absolute;
+    top: 25px;
+    left: 25px;
+}
+#pointCircle{
+    position:absolute;
+    top: 85px;
+    left: 85px;
+}
+#target1{
+    position:absolute;
+}
+#target2{
+    position:absolute;
+    top: 200px;
+    left: 800px;
+}
+#target3{
+    position:absolute;
+    top: 400px;
+    left: 320px;
+    width: 1000px;
+    height: 300px;
+}
+
+#text1{
+    position:absolute;
+    top:  90px;
+    left: 220px;
+    font-family: Montserrat;
+    margin: 0px;
+    font-size: 20px;
+    color: dimgray;
+}
+
+#text2{
+    position:absolute;
+    top:  180px;
+    left: 470px;
+    font-family: Montserrat;
+    margin: 0px;
+    font-size: 20px;
+    color: dimgray;
+}
+
+
+
+
+/* The animation code */
+@keyframes targetPratice {
+    0%   {left:0px; top:0px;}
+    25%  {left:200px; top:0px;}
+    50%  {left:200px; top:200px;}
+    75%  {left:0px; top:200px;}
+    100% {left:0px; top:0px;}
+}
+
+/* The element to apply the animation to */
+#target1 {
+    animation: targetPratice 2s ease 0s infinite;
+}
+
+
+/*page 3*/
+
+.size6{
+    width: 120px;
+    height: 120px;
+    font-size: 70px;
+    display: inline-block;
+}
+.size5{
+    width: 120px;
+    height: 120px;
+    font-size: 50px;
+    display: inline-block;
+}
+.size4{
+    width: 120px;
+    height: 120px;
+    font-size: 30px;
+    display: inline-block;
+}
+.size3{
+    width: 120px;
+    height: 120px;
+    font-size: 20px;
+    display: inline-block;
+}
+.size2{
+    width: 120px;
+    height: 120px;
+    font-size: 10px;
+    display: inline-block;
+}
+.size1{
+    width: 120px;
+    height: 120px;
+    font-size: 5px;
+    display: inline-block;
+}
+#content{
+    left: 400px;
+    position: absolute;
+}
