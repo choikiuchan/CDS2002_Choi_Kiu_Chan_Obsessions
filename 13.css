@@ -1,0 +1,67 @@
+/*page 13*/
+
+#circle{
+    position:absolute;
+}
+#innerCircle{
+    position:absolute;
+    top: 25px;
+    left: 25px;
+}
+#pointCircle{
+    position:absolute;
+    top: 85px;
+    left: 85px;
+}
+#target1{
+    position:absolute;
+}
+#target2{
+    position:absolute;
+    top: 200px;
+    left: 800px;
+}
+#target3{
+    position:absolute;
+    top: 400px;
+    left: 320px;
+    width: 1000px;
+    height: 300px;
+}
+
+#text1{
+    position:absolute;
+    top:  90px;
+    left: 220px;
+    font-family: Montserrat;
+    margin: 0px;
+    font-size: 20px;
+    color: dimgray;
+}
+
+#text2{
+    position:absolute;
+    top:  180px;
+    left: 470px;
+    font-family: Montserrat;
+    margin: 0px;
+    font-size: 20px;
+    color: dimgray;
+}
+
+
+
+
+/* The animation code */
+@keyframes targetPratice {
+    0%   {left:0px; top:0px;}
+    25%  {left:200px; top:0px;}
+    50%  {left:200px; top:200px;}
+    75%  {left:0px; top:200px;}
+    100% {left:0px; top:0px;}
+}
+
+/* The element to apply the animation to */
+#target1 {
+    animation: targetPratice 2s ease 0s infinite;
+}

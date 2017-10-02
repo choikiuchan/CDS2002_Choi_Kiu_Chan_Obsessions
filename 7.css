@@ -1,0 +1,315 @@
+body{
+                margin: 0px;
+            }
+            .overlay{
+                position : fixed;
+                width: 50px;
+                Height: 50px;
+                border: 100px solid black;
+            }
+            .overlay2{
+                position : fixed;
+                width: 50px;
+                Height: 50px;
+                border: 100px solid black;
+                left: 250px;
+            }
+            .overlay3{
+                position : fixed;
+                width: 50px;
+                Height: 50px;
+                border: 100px solid black;
+                left: 500px;
+            }
+            .overlay4{
+                position : fixed;
+                width: 50px;
+                Height: 50px;
+                border: 100px solid black;
+                left: 750px;
+            }
+            .overlay5{
+                position : fixed;
+                width: 50px;
+                Height: 50px;
+                border: 100px solid black;
+                left: 1000px;
+            }
+            .overlay6{
+                position : fixed;
+                width: 50px;
+                Height: 50px;
+                border: 100px solid black;
+                left: 1250px;
+            }
+            .overlay7{
+                position : fixed;
+                width: 50px;
+                Height: 50px;
+                border: 100px solid black;
+                left: 1500px;
+            }
+            .overlay8{
+                position : fixed;
+                width: 50px;
+                Height: 50px;
+                border: 100px solid black;
+                top: 250px;
+            }
+            .overlay9{
+                position : fixed;
+                width: 50px;
+                Height: 50px;
+                border: 100px solid black;
+                top: 250px;
+                left: 250px;
+            }
+            .overlay10{
+                position : fixed;
+                width: 50px;
+                Height: 50px;
+                border: 100px solid black;
+                top: 250px;
+                left: 500px;
+            }
+            .overlay11{
+                position : fixed;
+                width: 50px;
+                Height: 50px;
+                border: 100px solid black;
+                top: 250px;
+                left: 750px;
+            }
+            .overlay12{
+                position : fixed;
+                width: 50px;
+                Height: 50px;
+                border: 100px solid black;
+                top: 250px;
+                left: 1000px;
+            }
+            .overlay13{
+                position : fixed;
+                width: 50px;
+                Height: 50px;
+                border: 100px solid black;
+                top: 250px;
+                left: 1250px;
+            }
+            .overlay14{
+                position : fixed;
+                width: 50px;
+                Height: 50px;
+                border: 100px solid black;
+                top: 250px;
+                left: 1500px;
+            }
+            .overlay15{
+                position : fixed;
+                width: 50px;
+                Height: 50px;
+                border: 100px solid black;
+                top: 500px;
+            }
+            .overlay16{
+                position : fixed;
+                width: 50px;
+                Height: 50px;
+                border: 100px solid black;
+                top: 500px;
+                left: 250px;
+            }
+            .overlay17{
+                position : fixed;
+                width: 50px;
+                Height: 50px;
+                border: 100px solid black;
+                top: 500px;
+                left: 500px;
+            }
+            .overlay18{
+                position : fixed;
+                width: 50px;
+                Height: 50px;
+                border: 100px solid black;
+                top: 500px;
+                left: 750px;
+            }
+            .overlay19{
+                position : fixed;
+                width: 50px;
+                Height: 50px;
+                border: 100px solid black;
+                top: 500px;
+                left: 1000px;
+            }
+            .overlay20{
+                position : fixed;
+                width: 50px;
+                Height: 50px;
+                border: 100px solid black;
+                top: 500px;
+                left: 1250px;
+            }
+            .overlay21{
+                position : fixed;
+                width: 50px;
+                Height: 50px;
+                border: 100px solid black;
+                top: 500px;
+                left: 1500px;
+            }
+            .overlay22{
+                position : fixed;
+                width: 50px;
+                Height: 50px;
+                border: 100px solid black;
+                top: 750px;
+            }
+            .overlay23{
+                position : fixed;
+                width: 50px;
+                Height: 50px;
+                border: 100px solid black;
+                top: 750px;
+                left: 250px; 
+            }
+            .overlay24{
+                position : fixed;
+                width: 50px;
+                Height: 50px;
+                border: 100px solid black;
+                top: 750px;
+                left: 500px; 
+            }
+            .overlay25{
+                position : fixed;
+                width: 50px;
+                Height: 50px;
+                border: 100px solid black;
+                top: 750px;
+                left: 750px;
+            }
+            .overlay26{
+                position : fixed;
+                width: 50px;
+                Height: 50px;
+                border: 100px solid black;
+                top: 750px;
+                left: 1000px;
+            }
+           .overlay27{
+                position : fixed;
+                width: 50px;
+                Height: 50px;
+                border: 100px solid black;
+                top: 750px;
+                left: 1250px;
+            }
+           .overlay28{
+                position : fixed;
+                width: 50px;
+                Height: 50px;
+                border: 100px solid black;
+                top: 750px;
+                left: 1500px;
+            }
+            .overlayFullblack1{
+                position : fixed;
+                width: 0px;
+                Height: 0px;
+                border: 1500px solid black;
+                top: 1000px;
+                left: 0px;
+            }
+            .overlayFullblack2{
+                position : fixed;
+                width: 0px;
+                Height: 0px;
+                border: 2500px solid black;
+                top: 0px;
+                left: 1750px;
+            }
+                
+                            
+                                
+            .O{
+                width: 50px;
+                Height: 50px;
+                left: 117px;
+                top: 1115px;
+                position : absolute;
+            }
+            .B{
+                width: 50px;
+                Height: 50px;
+                left: 367px;
+                top: 1115px;
+                position : absolute;
+            }
+            .S{
+                width: 50px;
+                Height: 50px;
+                left: 617px;
+                top: 1115px;
+                position : absolute;
+            }
+            .E{
+                width: 50px;
+                Height: 50px;
+                left: 367px;
+                top: 1365px;
+                position : absolute;
+            }
+            .S2{
+                width: 50px;
+                Height: 50px;
+                left: 617px;
+                top: 1365px;
+                position : absolute;
+            }
+            .S3{
+                width: 50px;
+                Height: 50px;
+                left: 867px;
+                top: 1365px;
+                position : absolute;
+            }
+            .I{
+                width: 50px;
+                Height: 50px;
+                left: 617px;
+                top: 1615px;
+                position : absolute;
+            }
+            .O2{
+                width: 50px;
+                Height: 50px;
+                left: 867px;
+                top: 1615px;
+                position : absolute;
+            }
+            .N{
+                width: 50px;
+                Height: 50px;
+                left: 1117px;
+                top: 1615px;
+                position : absolute;
+            }
+            .S4{
+                width: 50px;
+                Height: 50px;
+                left: 1367px;
+                top: 1615px;
+                position : absolute;
+            }
+            .hiddenC{
+                width: 50px;
+                Height: 50px;
+                left: 355px;
+                top: 2355px;
+                position : absolute;
+            }
+            body{
+                height: 2000px;
+            }

@@ -1,0 +1,76 @@
+.absolute{
+    position: absolute;
+    top: 0px;
+    left:0px;
+}
+.standardSize{
+    width: 900px;
+}
+@keyframes fallDown {
+    0%   {left:0px; top:-700px;}
+    50% {left:0px; top:0px;}
+    100% {left:0px; top:0px;}
+}
+#img1{
+    top: -700px;
+    animation: fallDown 2s linear 0s infinite;
+}
+#img2{
+    top: -700px;
+    animation: fallDown 1s linear 0.1s infinite;
+}
+#img3{
+    top: -700px;
+    animation: fallDown 2s linear 0.2s infinite;
+}
+#img4{
+    top: -700px;
+    animation: fallDown 3s linear 0.3s infinite;
+}
+#img5{
+    top: -700px;
+    animation: fallDown 1s linear 0.4s infinite;
+}
+#img6{
+    top: -700px;
+    animation: fallDown 4s linear 0.5s infinite;
+}
+#img7{
+    top: -700px;
+    animation: fallDown 3s linear 0.6s infinite;
+}
+#img8{
+    top: -700px;
+    animation: fallDown 2s linear 0.7s infinite;
+}
+#img9{
+    top: -700px;
+    animation: fallDown 1s linear 0.8s infinite;
+}
+
+body{            
+    background: linear-gradient(317deg, #b893e7, #2c89a9, #c6c71b);
+    background-size: 600% 600%;
+
+    animation: gradual 5s ease infinite;
+    height: 100vh;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+}
+#bg{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 900px;
+    height: 664px;
+    margin: -332px 0 0 -450px;
+}
+
+@keyframes gradual {
+    0%{background-position:35% 0%}
+    50%{background-position:66% 100%}
+    100%{background-position:35% 0%}
+}

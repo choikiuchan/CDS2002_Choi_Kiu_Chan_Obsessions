@@ -1,0 +1,56 @@
+#outer{
+    font-size: 700px;
+    position: absolute;
+}
+#inner1{
+    font-size: 600px;
+    position: absolute;
+}
+#inner2{
+    font-size: 500px;
+    position: absolute;
+}
+#inner3{
+    font-size: 400px;
+    position: absolute;
+}
+#inner4{
+    font-size: 300px;
+    position: absolute;
+}
+#inner5{
+    font-size: 220px;
+    position: absolute;
+}
+#inner6{
+    font-size: 150px;
+    position: absolute;
+}
+#s1{
+    position:absolute;
+    top:440px;
+    left:475px;
+    transform: rotate(90deg);
+    width: 400px;
+}
+#s2{
+    position:absolute;
+    top:450px;
+    left:1235px;
+    transform: rotate(90deg);
+    width: 400px;
+}
+#s3{
+    position:absolute;
+    top:440px;
+    left:2545px;
+    transform: rotate(90deg);
+    width: 400px;
+}
+#s4{
+    position:absolute;
+    top:380px;
+    left:3420px;
+    transform: rotate(51deg);
+    width: 400px;
+}

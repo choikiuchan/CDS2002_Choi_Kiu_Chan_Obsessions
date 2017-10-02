@@ -1,0 +1,40 @@
+#layer1{
+    border: 80px solid black;
+    height: 660px;
+}
+#layer2{
+    border: 42px solid black;
+    margin: 60px;
+    height: 470px;
+
+}
+#layer3{
+    border: 22px solid black;
+    margin: 45px;
+    height: 350px;
+
+
+
+}
+#layer4{
+    border: 17px solid black;
+    margin: 35px;
+    height: 260px;
+
+
+}
+#layer5{
+    border: 9px solid black;
+    margin: 30px;
+    height: 180px;
+
+
+}
+body{
+    height: 100vh;
+    margin: 0px;
+    overflow: hidden
+}
+#cover{
+    border: 2000px solid black;
+}

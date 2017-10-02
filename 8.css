@@ -1,0 +1,30 @@
+.col{
+    width : 30px;
+    height : 30px;
+    padding-top: 20px;
+    padding-left: 20px;
+    border: 2px dotted grey;
+    display: inline-block;
+    margin-left:3px;
+    margin-top:3px;
+}
+.greenBorder{
+    border: 2px solid green;
+}
+
+.whiteborder{
+    border: 2px dotted green;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+}  
+#container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 570px;
+    height: 568px;
+    margin: 127.5px 0 0 -284px;
+}
