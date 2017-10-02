@@ -230,7 +230,22 @@ body{
                 top: 0px;
                 left: 1750px;
             }
-                
+            .overlayFullblack3{
+                position : fixed;
+                width: 0px;
+                Height: 0px;
+                border: 2000px solid black;
+                top: 650px;
+                left: 1250px;
+            } 
+            .overlayFullblack4{
+                position : fixed;
+                width: 0px;
+                Height: 0px;
+                border: 100px solid black;
+                top: 400px;
+                left: 1250px;
+            }   
                             
                                 
             .O{
